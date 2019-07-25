@@ -1,6 +1,6 @@
 spring:
   application:
-    name: client-1
+    name: client-01
 
 eureka:
   client:
